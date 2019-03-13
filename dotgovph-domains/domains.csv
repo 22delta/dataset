@@ -1,6 +1,8 @@
 ﻿Domain Name,Agency
+balinkbayan.gov.ph,BaLinkBayan Overseas Filipinos' One Stop Online Portal
 bcda.gov.ph,Bases Conversion and Development Authority
 bir.gov.ph,Bureau of Internal Revenue
+bspms.dost.gov.ph,Balik Scientist Program
 ca.judiciary.gov.ph,Court of Appeals
 cfo.gov.ph,Commission on Filipino Overseas
 ched.gov.ph,Commission on Higher Education
@@ -8,6 +10,8 @@ citem.gov.ph,Center for International Trade Expositions and Missions
 congress.gov.ph,House of Representatives
 crs.sec.gov.ph,SEC Company Registration System
 crsquery.sec.gov.ph,SEC Application Status Online Inquiry
+csc.gov.ph,Civil Service Commission
+customs.gov.ph,Bureau of Customs
 da.gov.ph,Department of Agriculture
 dar.gov.ph,Department of Agrarian Reform
 data.gov.ph,Open Data Philippines
@@ -31,36 +35,48 @@ dti.gov.ph,Department of Trade and Industry
 foi.gov.ph,Freedom of Information
 gcg.gov.ph,Governance Commission for GOCC’s
 geoportal.gov.ph,Philippine Geoportal
+hgc.gov.ph,Home Guaranty Corporation
+hlurb.gov.ph,Housing and Land Use Regulatory Board
 hudcc.gov.ph,Housing and Urban Development Coordinating Council
 i.gov.ph,iGov Philippines
+immigration.gov.ph,Bureau of Immigration
 ipophil.gov.ph,Intellectual Property Office of the Philippines
 llda.gov.ph,Laguna Lake Development Authority
+lra.gov.ph,Land Registration Authority
 ltfrb.gov.ph,Land Transportation Franchising and Regulatory Board
 lto.gov.ph,Land Transporation Office
 minda.gov.ph,Mindanao Development Authority
 mmda.gov.ph,Metropolitan Manila Development Authority
 napc.gov.ph,National Anti-Poverty Commission
 nbi.gov.ph,National Bureau of Investigation
+ncda.gov.ph,National Council on Disability Affairs
 ncip.gov.ph,National Commission on Indigenous Peoples
 ncmf.gov.ph,National Commission on Muslim Filipinos
 neda.gov.ph,National Economic and Development Authority
 nia.gov.ph,National Irrigation Administration
+nnc.gov.ph,National Nutrition Council
 nsc.gov.ph,National Security Council
 ntc.gov.ph,National Telecommunications Commission
 officialgazette.gov.ph,Official Gazette
+ombudsman.gov.ph,Office of the Ombudsman
 op-proper.gov.ph,Office of the President
 opapp.gov.ph,Office of the Presidential Adviser on the Peace Process
 ovp.gov.ph,Office of the Vice President
 passport.gov.ph,Passport Appointment System
 pcdspo.gov.ph,Presidential Communications Development and Strategic Planning Office
+pchrd.dost.gov.ph,Philippine Council for Health Research and Development
 pcoo.gov.ph,Presidential Communications Operations Office
+pcso.gov.ph,Philippine Charity Sweepstakes Office
+philhealth.gov.ph,Philippine Health Insurance Corporation
 pllo.gov.ph,Presidential Legislative Liaison Office
 pms.gov.ph,Presidential Management Staff
 poea.gov.ph,Philippine Overseas Employment Administration
+portal.gov.ph,Gov.PH Portal
 pqf.gov.ph,Philippine Qualifications Framework
 president.gov.ph,Office of the President
 privacy.gov.ph,National Privacy Commission
 psa.gov.ph,Philippine Statistics Authority
+prc.gov.ph,Professional Regulation Commission
 sb.judiciary.gov.ph,Sandiganbayan
 sc.judiciary.gov.ph,Supreme Court of the Philippines
 sec.gov.ph,Securities and Exchange Commission
@@ -69,3 +85,4 @@ sss.gov.ph,Social Security System
 stat.psa.gov.ph,OpenSTAT Philippine Statistics Authority
 tesda.gov.ph,Technical Education and Skills Development Authority
 tourism.gov.ph,Department of Tourism
+www.gov.ph, Gov.PH Portal
