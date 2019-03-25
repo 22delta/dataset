@@ -1,0 +1,246 @@
+﻿Domain,Agency,URL,M-15-13 Compliant,Valid HTTPS,Defaults to HTTPS,HSTS,Free of RC4/3DES and SSLv2/SSLv3,﻿Any 3DES (sslyze)1,Any RC4 (sslyze)1,SSLv2 (sslyze)1,SSLv3 (sslyze)1
+abra.gov.ph,Province of Abra,http://abra.gov.ph,0,1,0,0,1,0,0,0,0
+acpc.gov.ph,Agricultural Credit Policy Council,http://www.acpc.gov.ph,0,0,0,0,,,,,
+afab.gov.ph,Autority og Freeport Area of Bataan,http://afab.gov.ph,0,0,0,0,,,,,
+agusandelsur.gov.ph,Agusan del Sur,http://agusandelsur.gov.ph,0,1,0,0,1,0,0,0,0
+aklan.gov.ph,Aklan,http://aklan.gov.ph,0,0,0,0,,,,,
+albay.gov.ph,Province of Albay,http://albay.gov.ph,0,0,0,0,,,,,
+amlc.gov.ph,Anti-Money Laundering Counci,http://www.amlc.gov.ph,0,0,0,0,,,,,
+angelescity.gov.ph,Angeles City Local Governmet Website,http://angelescity.gov.ph,0,1,0,0,1,0,0,0,0
+antique.gov.ph,Pronvicial Government of Antique,http://antique.gov.ph,0,1,0,0,1,0,0,0,0
+bacolodcity.gov.ph,Bacolod City Government Center,http://www.bacolodcity.gov.ph,0,0,0,0,,,,,
+bacoor.gov.ph,Bacoor Government Center,http://bacoor.gov.ph,0,0,0,0,,,,,
+baguio.gov.ph,City Government of Baguio,http://baguio.gov.ph,0,0,0,0,,,,,
+balinkbayan.gov.ph,BaLinkBayan Overseas Filipi0s' One Stop Online Portal,https://balinkbayan.gov.ph,0,1,1,0,,,,,
+basilan.gov.ph,Basilan Province,http://www.basilan.gov.ph,0,0,0,1,1,0,0,0,0
+bataan.gov.ph,Provincial Government of Bataan,https://bataan.gov.ph,0,1,1,0,,,,,
+batangas.gov.ph,Batangas,http://batangas.gov.ph,0,0,0,0,,,,,
+bcda.gov.ph,Bases Conversion and Development Authority,https://bcda.gov.ph,0,1,1,0,0,1,0,0,0
+benguet.gov.ph,Provnce of Benguet,http://benguet.gov.ph,0,1,0,0,0,1,1,0,0
+bir.gov.ph,Bureau of Internal Revenue,https://www.bir.gov.ph,0,0,1,0,,,,,
+blgf.go.ph,Bureau f Local Government Finance,http://blgf.go.ph,0,0,0,0,,,,,
+bmb.gov.ph,Biodiversity Management Bureau,http://bmb.gov.ph,0,0,0,0,,,,,
+bohol.gov.ph,Province of Bohol,http://bohol.gov.ph,0,1,0,0,0,1,0,0,0
+boi.gov.ph,Philippine Board Of Investments,http://boi.gov.ph,0,0,0,0,,,,,
+bsp.gov.ph,Bangko Sentral ng Pilipinas,http://www.bsp.gov.ph,0,0,0,0,,,,,
+bspms.dost.gov.ph,Balik Scientist Program,http://bspms.dost.gov.ph,0,0,0,0,,,,,
+build.gov.ph,Philippine Infrastructure Transparency Portal,http://build.gov.ph,0,0,0,0,,,,,
+bukid0n.gov.ph,Provincial Government of Bukid0n,http://www.bukid0n.gov.ph,0,0,0,0,,,,,
+bulacan.gov.ph,Bulacan,https://www.bulacan.gov.ph,0,1,1,0,,,,,
+business.gov.ph,Philippine Business Registry,http://business.gov.ph,0,0,0,0,,,,,
+butuan.gov.ph,Butuan,http://butuan.gov.ph,0,0,0,0,,,,,
+ca.judiciary.gov.ph,Court of Appeals,http://ca.judiciary.gov.ph,0,0,0,0,,,,,
+caap.gov.ph,Civil Aviation Authority of the Philippines,http://www.caap.gov.ph,0,0,0,0,,,,,
+cagayan.gov.ph,Cagayan,http://www.cagayan.gov.ph,0,0,0,0,,,,,
+cainta.gov.ph,Cainta,http://www.cainta.gov.ph,0,1,0,0,1,0,0,0,0
+caloocancity.gov.ph,Coloocan City,http://caloocancity.gov.ph,0,0,0,0,,,,,
+camarines0rte.gov.ph,Camarines 0rte,http://camarines0rte.gov.ph,0,0,0,0,,,,,
+catanduanes.gov.ph,Province of Catanduanes,https://catanduanes.gov.ph,0,1,1,0,0,1,0,0,0
+cavite.gov.ph,Cavite,http://www.cavite.gov.ph,0,0,0,0,,,,,
+cda.gov.ph,Cooperative Development Authority,http://cda.gov.ph,0,0,0,0,,,,,
+cebu.gov.ph,Cebu Provincial Government,https://www.cebu.gov.ph,0,1,1,0,0,1,1,0,0
+cesboard.gov.ph,Career Executive Service Board,http://www.cesboard.gov.ph,0,0,0,0,,,,,
+cfo.gov.ph,Commission on Filipi0 Overseas,https://cfo.gov.ph,0,1,1,0,1,0,0,0,0
+ched.gov.ph,Commission on Higher Education,https://ched.gov.ph,0,0,1,0,0,1,0,0,0
+chr.gov.ph,Commission on Human Rights,http://chr.gov.ph,0,1,0,0,1,0,0,0,0
+citem.gov.ph,Center for International Trade Expositions and Missions,http://citem.gov.ph,0,0,0,0,,,,,
+cityogsanfemando.gov.ph,City of San Fernando,http://cityogsanfemando.gov.ph,0,0,0,0,,,,,
+climate.gov.ph,The Climate Change Commission,http://climate.gov.ph,0,0,0,0,,,,,
+coa.gov.ph,Commission on Audit,https://coa.gov.ph,0,1,1,0,1,0,0,0,0
+coastguard.gov.ph,Philippine Coast Guard,http://coastguard.gov.ph,0,0,0,0,,,,,
+comelec.gov.ph,Comelec,http://comelec.gov.ph,0,1,0,0,1,0,0,0,0
+congress.gov.ph,House of Representatives,http://congress.gov.ph,0,0,0,0,,,,,
+cotabatoprov.gov.ph,Province of Cotabato,http://cotabatoprov.gov.ph,0,1,0,0,1,0,0,0,0
+creditinfo.gov.ph,Credit Information Corporation,https://www.creditinfo.gov.ph,0,1,1,0,1,0,0,0,0
+crs.sec.gov.ph,SEC Company Registration System,https://crs.sec.gov.ph,0,1,1,0,0,1,1,0,0
+crsquery.sec.gov.ph,SEC Application Status Online Inquiry,http://crsquery.sec.gov.ph,0,0,0,0,,,,,
+csc.gov.ph,Civil Service Commission,http://csc.gov.ph,0,0,0,0,,,,,
+culturalcenter.gov.ph,CCP,http://culturalcenter.gov.ph,0,0,0,0,0,1,1,0,1
+customs.gov.ph,Bureau of Customs,http://customs.gov.ph,0,0,0,0,,,,,
+da.gov.ph,Department of Agriculture,http://www.da.gov.ph,0,0,0,0,,,,,
+dar.gov.ph,Department of Agrarian Reform,http://www.dar.gov.ph,0,0,0,0,,,,,
+data.gov.ph,Open Data Philippines,https://data.gov.ph,0,1,1,0,0,1,0,0,0
+davaocity.gov.ph,Davao City,http://davaocity.gov.ph,0,0,0,0,,,,,
+davaodelsur.gov.ph ,Pronvicial Government of Davao del Sur,http://davaodelsur.gov.ph ,0,0,0,0,,,,,
+dbm.gov.ph,Department of Budget and Management,https://dbm.gov.ph,0,0,1,0,0,1,0,0,0
+ddb.gov.ph,Dangerous Drugs Board,https://www.ddb.gov.ph,0,1,1,0,0,1,1,0,0
+denr.gov.ph,Department of Environment and Natural Resources,https://denr.gov.ph,0,0,1,0,,,,,
+deped.gov.ph,Department of Education,http://www.deped.gov.ph,0,0,0,0,,,,,
+depedcebuprovince.ph,DepEd Cebu Province,http://www.depedcebuprovince.ph,0,0,0,0,,,,,
+dfa-oavs.gov.ph,Overseas Absentee Voting Secretariat,http://dfa-oavs.gov.ph,0,0,0,0,,,,,
+dfa.gov.ph,Department of Foreign Affairs,https://dfa.gov.ph,0,1,1,0,0,1,0,0,0
+dict.gov.ph,Department of Information and Communications Tech0logy,http://dict.gov.ph,0,0,0,0,,,,,
+dilg.gov.ph,Department of the Interior and Local Government,http://dilg.gov.ph,0,0,0,0,,,,,
+dnd.gov.ph,Department of National Defense,http://dnd.gov.ph,0,0,0,0,,,,,
+doe.gov.ph,Department of Energy,http://www.doe.gov.ph,0,1,0,0,0,1,0,0,0
+dof.gov.ph,Department of Finance,https://www.dof.gov.ph,0,1,1,0,0,1,1,0,0
+doh.gov.ph,Department of Health,https://www.doh.gov.ph,0,0,1,0,0,1,0,0,0
+doj.gov.ph,Department of Justice,https://doj.gov.ph,0,1,1,0,1,0,0,0,0
+dole.gov.ph,Department of Labor and Employment,https://www.dole.gov.ph,0,1,1,0,1,0,0,0,0
+dost.gov.ph,Department of Science and Tech0logy,http://dost.gov.ph,0,0,0,0,,,,,
+dotr.gov.ph,Department of Transportation,https://dotr.gov.ph,0,0,1,0,0,1,0,0,0
+dpwh.gov.ph,Department of Public Works and Highways,http://www.dpwh.gov.ph,0,0,0,0,,,,,
+dswd.gov.ph,Department of Social Welfare and Development,https://www.dswd.gov.ph,0,1,1,0,0,1,0,0,0
+dti.gov.ph,Department of Trade and Industry,http://dti.gov.ph,0,0,0,0,,,,,
+dumaguetecity.gov.ph,City of Gentle People Dumaguete City,http://dumaguetecity.gov.ph,0,0,0,0,,,,,
+e-extension.gov.ph,e-Learning for Agriculture and fisheries,http://e-extension.gov.ph,0,1,0,0,,,,,
+e-tesda.gov.ph,Tesda Online Program,https://www.e-tesda.gov.ph,0,1,1,0,0,1,0,0,0
+easteasternsamar.gov.ph,Province of Eastern Samar,http://easteasternsamar.gov.ph,0,0,0,0,,,,,
+ecc.gov.ph,Employee's Compensation Commission,http://ecc.gov.ph,0,0,0,0,0,1,0,0,0
+emb.gov.ph,Environmental Management Bureau,https://emb.gov.ph,0,0,1,0,,,,,
+finder.tariffcommission.gov.ph,Tariff Commision,http://finder.tariffcommission.gov.ph,0,1,0,0,1,0,0,0,0
+foi.gov.ph,Freedom of Information,https://www.foi.gov.ph,0,1,1,0,0,1,0,0,0
+freepublicwifi.gov.ph,Pipol Konek,http://freepublicwifi.gov.ph,0,0,0,0,,,,,
+gcg.gov.ph,Governance Commission for GOCC’s,https://gcg.gov.ph,0,1,1,0,0,1,1,0,1
+geoportal.gov.ph,Philippine Geoportal,http://geoportal.gov.ph,0,0,0,0,,,,,
+gppb.gov.ph,Governement Procurement Poicy Board,https://gppb.gov.ph,0,1,1,0,0,1,0,0,0
+gsis.gov.ph,Government Service Insurance System,https://www.gsis.gov.ph,0,0,1,0,1,0,0,0,0
+guimaras.gov.ph,Guimaras,http://guimaras.gov.ph,0,0,0,0,,,,,
+hgc.gov.ph,Home Guaranty Corporation,http://hgc.gov.ph,0,0,0,0,,,,,
+hlurb.gov.ph,Housing and Land Use Regulatory Board,http://hlurb.gov.ph,0,0,0,0,,,,,
+hudcc.gov.ph,Housing and Urban Development Coordinating Council,http://hudcc.gov.ph,0,0,0,0,,,,,
+i.gov.ph,iGov Philippines,http://i.gov.ph,0,1,0,0,1,0,0,0,0
+iacat.gov.ph,Inter-Agency Council Against Trafficking (IACAT),http://iacat.gov.ph,0,0,0,0,,,,,
+ibazambales.gov.ph,"Municipality of Iba, Province of Zambales",http://ibazambales.gov.ph,0,0,0,0,,,,,
+icab.gov.ph,Inter-Country Adoption Board,http://www.icab.gov.ph,0,1,0,0,1,0,0,0,0
+ilocos0rte.gov.ph,Ilocos 0rte,http://ilocos0rte.gov.ph,0,1,0,0,1,0,0,0,0
+iloilo.gov.ph,Province of Iloilo,http://iloilo.gov.ph,0,1,0,0,1,0,0,0,0
+immigration.gov.ph,Bureau of Immigration,http://immigration.gov.ph,0,0,0,0,,,,,
+insurance.govph,Insurance Commission,http://insurance.govph,0,0,0,0,,,,,
+intramuros.gov.ph,Intramuros Administration,http://intramuros.gov.ph,0,0,0,0,,,,,
+ipophil.gov.ph,Intellectual Property Office of the Philippines,http://ipophil.gov.ph,0,0,0,0,0,1,0,0,0
+laguna.gov.ph,Pronvicial Government of Laguna,http://laguna.gov.ph,0,1,0,0,1,0,0,0,0
+lanadel0rte.gov.ph,Province of Lanao del 0rte,http://lanadel0rte.gov.ph,0,0,0,0,,,,,
+launion.gov.ph,Provincial Government of La Union,https://launion.gov.ph,0,1,1,0,1,0,0,0,0
+lcp.gov.ph,Lung Center of the PH,http://lcp.gov.ph,0,0,0,0,,,,,
+lga.gov.ph,Local Government Academy,https://lga.gov.ph,0,1,1,0,1,0,0,0,0
+llda.gov.ph,Laguna Lake Development Authority,http://llda.gov.ph,0,0,0,0,,,,,
+lpp.gov.ph,League of Provinces of the Philippines Online,http://lpp.gov.ph,0,0,0,0,,,,,
+lra.gov.ph,Land Registration Authority,http://lra.gov.ph,0,1,0,0,0,1,0,0,0
+ltfrb.gov.ph,Land Transportation Franchising and Regulatory Board,http://ltfrb.gov.ph,0,0,0,0,,,,,
+lto.gov.ph,Land Transporation Office,http://lto.gov.ph,0,0,0,0,,,,,
+lwua.gov.ph,Local Water Utilities Admininistration,http://lwua.gov.ph,0,0,0,0,,,,,
+mactan.gov.ph,Mactan-Cebu International Airport Authority,http://mactan.gov.ph,0,0,0,0,,,,,
+makati.gov.ph,Makati City Government,http://www.makati.gov.ph,0,0,0,0,,,,,
+malabon.gov.ph,Malabon City,http://malabon.gov.ph,0,1,0,0,1,0,0,0,0
+malacanang.gov.ph,Presidential Museum and Library,http://malacanang.gov.ph,0,0,0,0,,,,,
+mandaluyong.gov.ph,Mandaluyong City,http://mandaluyong.gov.ph,0,0,0,0,0,1,1,0,0
+manila.gov.ph,City of Manila,http://manila.gov.ph,0,0,0,0,,,,,
+marina.gov.ph,Maritime Industry Authority,http://marina.gov.ph,0,1,0,0,0,1,0,0,0
+mcwd.gov.ph,Metropolitan Cebu Water District,http://www.mcwd.gov.ph,0,0,0,0,,,,,
+mexicopampanga.gov.ph,Municipality of Mexico Pampanga,http://mexicopampanga.gov.ph,0,1,0,0,1,0,0,0,0
+mgb.gov.ph,Mines and Geoscience Bureau,http://mgb.gov.ph,0,0,0,0,,,,,
+miaa.gov.ph,Manila International Airport Authority,http://www.miaa.gov.ph,0,0,0,0,,,,,
+minda.gov.ph,Mindanao Development Authority,http://minda.gov.ph,0,0,0,0,,,,,
+misocc.gov.ph,Misamis Occidental,https://misocc.gov.ph,0,1,1,0,0,1,1,0,0
+mmda.gov.ph,Metropolitan Manila Development Authority,http://mmda.gov.ph,0,0,0,0,,,,,
+namria.gov.ph,National Mapping and Resource Information Authoity,http://namria.gov.ph,0,0,0,0,,,,,
+napc.gov.ph,National Anti-Poverty Commission,http://napc.gov.ph,0,0,0,0,,,,,
+napocor.gov.ph,National Power Corporation,https://napocor.gov.ph,0,1,1,0,0,1,1,0,0
+nationalarchives.gov.ph,National Archives of the Philippines,http://nationalarchives.gov.ph,0,0,0,0,,,,,
+nationalmuseum.gov.ph,National Museum of the Philippines,http://nationalmuseum.gov.ph,0,1,0,0,1,0,0,0,0
+nbi.gov.ph,National Bureau of Investigation,http://www.nbi.gov.ph,0,1,0,0,1,0,0,0,0
+ncca.gov.ph,National Commission for Culture and the Arts,https://ncca.gov.ph,0,0,1,0,0,1,0,0,0
+ncda.gov.ph,National Council on Disability Affairs,http://www.ncda.gov.ph,0,0,0,0,,,,,
+ncip.gov.ph,National Commission on Indige0us Peoples,http://www.ncip.gov.ph,0,0,0,0,,,,,
+ncmf.gov.ph,National Commission on Muslim Filipi0s,http://ncmf.gov.ph,0,0,0,0,,,,,
+ndrrmc.gov.ph,National Disaster Risk Reduction and Management Council,http://ndrrmc.gov.ph,0,0,0,0,,,,,
+neda.gov.ph,National Eco0mic and Development Authority,http://www.neda.gov.ph,0,0,0,0,,,,,
+negros-occ.gov.ph,Negros Occidental Provincial Government,http://negros-occ.gov.ph,0,0,0,0,,,,,
+nfa.gov.ph,National Food Authority,http://nfa.gov.ph,0,0,0,0,,,,,
+nha.gov.ph,National Housing Authority,http://nha.gov.ph,0,0,0,0,,,,,
+nhcp.gov.ph,Nationa Historical Commision of the Philippines,http://nhcp.gov.ph,0,0,0,0,,,,,
+nia.gov.ph,National Irrigation Administration,http://www.nia.gov.ph,0,0,0,0,,,,,
+nica.gov.ph,National Intellidence Coordinating Agency,http://nica.gov.ph,0,0,0,0,0,1,0,0,0
+nkti.gov.ph,National Kidney and Transplant Institute,http://nkti.gov.ph,0,0,0,0,,,,,
+nlp.gov.ph,National Library of the Philippines,http://nlp.gov.ph,0,0,0,0,,,,,
+nnc.gov.ph,National Nutrition Council,http://nnc.gov.ph,0,0,0,0,,,,,
+0rthernsamar.gov.ph,Province of 0rthern Samar,http://0rthernsamar.gov.ph,0,1,0,0,0,1,0,0,0
+npo.gov.ph,National Printing Office,http://npo.gov.ph,0,0,0,0,,,,,
+nsc.gov.ph,National Security Council,http://nsc.gov.ph,0,0,0,0,,,,,
+nscb.gov.ph,National Statistical Coordination Board,http://nscb.gov.ph,0,0,0,0,,,,,
+nsw.gov.ph,Philippines National Single Window,https://nsw.gov.ph,0,0,1,0,0,1,0,0,1
+ntc.gov.ph,National Telecommunications Commission,http://ntc.gov.ph,0,0,0,0,,,,,
+nuevaviscaya.gov.ph,Nueva Viscaya,http://nuevaviscaya.gov.ph,0,0,0,0,,,,,
+nwrd.gov.ph,National Water Resources Board,http://nwrd.gov.ph,0,0,0,0,,,,,
+nyc.gov.ph,National Youth Commission,http://nyc.gov.ph,0,0,0,0,,,,,
+officialgazette.gov.ph,Official Gazette,https://www.officialgazette.gov.ph,0,1,1,0,0,1,0,0,0
+ogcc.gov.ph,Office of the Governement Corporate Counsel,http://ogcc.gov.ph,0,0,0,0,,,,,
+ombudsman.gov.ph,Office of the Ombudsman,https://www.ombudsman.gov.ph,0,1,1,0,1,0,0,0,0
+op-proper.gov.ph,Office of the President,http://op-proper.gov.ph,0,0,0,0,,1,0,0,0
+opapp.gov.ph,Office of the Presidential Adviser on the Peace Process,http://opapp.gov.ph,0,0,0,0,,,,,
+ots.gov.ph,Ofice for Transportation Security,http://ots.gov.ph,0,0,0,0,,,,,
+ovp.gov.ph,Office of the Vice President,http://ovp.gov.ph,0,0,0,0,0,1,0,0,0
+owwa.gov.ph,Overseas Wrkers Welfair Administration,http://owwa.gov.ph,0,1,0,0,,,,,
+paete.gov.ph,"Paete, Laguna",https://paete.gov.ph,0,1,1,0,1,0,0,0,0
+pagcwd.gov.ph,Pagadian City Water District,http://pagcwd.gov.ph,0,0,0,0,,,,,
+pagibigfund.gov.ph,Home Development Mutual Fund,https://pagibigfund.gov.ph,0,1,1,0,0,1,0,0,0
+palawan.gov.ph,Pronvicial Government of Palawan,http://palawan.gov.ph,0,1,0,0,1,0,0,0,0
+pampanga.gov.ph,Provincial Government of Pampanga,http://pampanga.gov.ph,0,0,0,0,,,,,
+panay.gov.ph,Municipality of Panay,http://panay.gov.ph,0,1,0,0,1,0,0,0,0
+pangasinan.go.ph,Pangasinan,http://pangasinan.go.ph,0,0,0,0,,,,,
+passport.gov.ph,Passport Appointment System,https://www.passport.gov.ph,0,1,1,0,0,1,0,0,0
+pcc.gov.ph,Philippine Carabao Center,http://www.pcc.gov.ph,0,0,0,0,,,,,
+pcdspo.gov.ph,Presidential Communications Development and Strategic Planning Office,http://www.pcdspo.gov.ph,0,1,0,0,1,0,0,0,0
+pchrd.dost.gov.ph,Philippine Council for Health Research and Development,http://pchrd.dost.gov.ph,0,0,0,0,,,,,
+pcic.gov.ph,Philippine Crop Insurance Coporation,http://pcic.gov.ph,0,0,0,0,,,,,
+pcoo.gov.ph,Presidential Communications Operations Office,https://pcoo.gov.ph,0,0,1,0,0,1,0,0,0
+pcso.gov.ph,Philippine Charity Sweepstakes Office,http://pcso.gov.ph,0,0,0,0,0,1,0,0,0
+pcw.gov.ph,Philippine commission on Women,https://pcw.gov.ph,1,1,1,1,1,0,0,0,0
+pdea.gov.ph,Philippine Drug Enforcement Agency,http://pdea.gov.ph,0,0,0,0,,,,,
+peza.gov.ph,Philippine Eco0mic Zone Authority,http://www.peza.gov.ph,0,0,0,0,0,1,1,0,1
+pfda.gov.ph,Philippine Fisheries Development Authority,http://pfda.gov.ph,0,0,0,0,,,,,
+pfm.gov.ph,Public Financial Management Philippines,http://pfm.gov.ph,0,0,0,0,,,,,
+pgh.gov.ph,Philippine General Hospital,http://www.pgh.gov.ph,0,0,0,0,,,,,
+phc.gov.ph,Philippine Heart Center,https://phc.gov.ph,0,1,1,0,0,1,1,0,1
+philgeps.gov.ph,Philippine Government Electronic Procurement System (PhilGEPS),https://philgeps.gov.ph,0,1,1,0,0,1,1,0,1
+philhealth.gov.ph,Philippine Health Insurance Corporation,https://www.philhealth.gov.ph,0,1,1,0,0,1,0,0,0
+philrice.gov.ph,Philippine Rice Research Institute,https://www.philrice.gov.ph,0,1,1,0,1,0,0,0,0
+phlpost.gov.ph,PHLPOST,https://www.phlpost.gov.ph,0,1,1,0,0,1,1,1,1
+pia.gov.ph,Philippine Information Agency,https://pia.gov.ph,0,1,1,0,0,1,0,0,0
+picc.gov.ph,Philippine International Convention Center,https://www.picc.gov.ph,0,1,1,0,0,1,0,0,0
+pids.gov.ph,Philippine Institure for Development Studeis,https://pids.gov.ph,0,1,1,0,,,,,
+pla.gov.ph,Philippine Information Agency,http://pla.gov.ph,0,0,0,0,,,,,
+pllo.gov.ph,Presidential Legislative Liaison Office,https://pllo.gov.ph,0,1,1,0,1,0,0,0,0
+pmdc.gov.ph,Philippine Mining Development Coporation,http://pmdc.gov.ph,0,1,0,0,1,0,0,0,0
+pms.gov.ph,Presidential Management Staff,http://pms.gov.ph,0,0,0,0,,,,,
+pna.gov.ph,Philippine News Agency,http://www.pna.gov.ph,0,0,0,0,,,,,
+pnp.gov.ph,Philippine National Police,http://pnp.gov.ph,0,0,0,0,,,,,
+pnpfs.gov.ph,PNP Finance Service,http://pnpfs.gov.ph,0,0,0,0,,,,,
+pnr.gov.ph,Philippine National Railways,http://pnr.gov.ph,0,0,0,0,,,,,
+pnvsca.gov.ph,Philippine Natonal Volunteer Service Coordinating Agency,http://www.pnvsca.gov.ph,0,0,0,0,,,,,
+poea.gov.ph,Philippine Overseas Employment Administration,http://poea.gov.ph,0,0,0,0,,,,,
+portal.gov.ph,Gov.PH Portal,http://portal.gov.ph,0,1,0,0,0,1,0,0,0
+ppp.gov.ph,Public-Private Partnership Center,http://ppp.gov.ph,0,0,0,0,0,1,0,0,0
+ppsc.gov.ph,Philippine Public Safety Colege,http://ppsc.gov.ph,0,0,0,0,,,,,
+pqf.gov.ph,Philippine Qualifications Framework,https://pqf.gov.ph,0,1,1,0,,1,1,0,0
+pra.gov.ph,Philippine Retirement Authority (PRA),https://pra.gov.ph,0,1,1,0,1,0,0,0,0
+prc.gov.ph,Professional Regulation Commission,https://prc.gov.ph,0,0,1,0,1,0,0,0,0
+privacy.gov.ph,National Privacy Commission,https://www.privacy.gov.ph,1,1,1,1,1,0,0,0,0
+probation.gov.ph,Parole and Probation Administration,http://probation.gov.ph,0,0,0,0,0,1,0,0,0
+psa.gov.ph,Philippine Statistics Authority,http://psa.gov.ph,0,1,0,0,0,1,0,0,0
+psalm.gov.ph,PSALM Corporation,https://psalm.gov.ph,0,1,1,0,,,,,
+pttc.govph,Philippine Trade Training Center,http://pttc.govph,0,0,0,0,,,,,
+quezon.gov.ph,Pronvicial Government of Quezon,https://quezon.gov.ph,0,1,1,0,1,0,0,0,0
+quezoncity.gov.ph,QC,http://quezoncity.gov.ph,0,0,0,0,,,,,
+ritm.gov.ph,Research Institute For Topical Medicine,http://ritm.gov.ph,0,0,0,0,,,,,
+sarangani.gov.ph,Province of Government of Sarangani,https://sarangani.gov.ph,0,1,1,0,1,0,0,0,0
+sb.judiciary.gov.ph,Sandiganbayan,http://sb.judiciary.gov.ph,0,0,0,0,,,,,
+sc.judiciary.gov.ph,Supreme Court of the Philippines,http://sc.judiciary.gov.ph,0,0,0,0,,,,,
+sec.gov.ph,Securities and Exchange Commission,http://www.sec.gov.ph,0,1,0,0,0,1,1,0,1
+senate.gov.ph,Senate of the Philippines,http://senate.gov.ph,0,0,0,0,,,,,
+southcotabato.gov.ph,South Cotabato,http://southcotabato.gov.ph,0,1,0,0,1,0,0,0,0
+southernleyte.gov.ph,Southern leyte,http://southernleyte.gov.ph,0,0,0,0,,,,,
+sss.gov.ph,Social Security System,https://www.sss.gov.ph,0,1,1,0,1,0,0,0,0
+stat.psa.gov.ph,OpenSTAT Philippine Statistics Authority,http://stat.psa.gov.ph,0,0,0,0,,,,,
+sultankudaratprovince.gov.ph,Sultan Kudarat,http://sultankudaratprovince.gov.ph,0,0,0,0,,,,,
+surigaodel0rte.gov.ph,Province of Surigao del 0rte,http://www.surigaodel0rte.gov.ph,0,0,0,0,,,,,
+tagbilaran.gov.ph,City Government of Tagbilaran,https://tagbilaran.gov.ph,0,1,1,0,,,,,
+tarlaccity.gov.ph,Tarlac City,http://tarlaccity.gov.ph,0,0,0,0,,,,,
+tesda.gov.ph,Technical Education and Skills Development Authority,https://tesda.gov.ph,0,1,1,0,,,,,
+tieza.gov.ph,Tieza-Makati,http://tieza.gov.ph,0,0,0,0,0,1,0,0,0
+tourism.gov.ph,Department of Tourism,http://tourism.gov.ph,0,0,0,0,,,,,
+tpb.gov.ph,Tourism Promotions Board Philippines,https://www.tpb.gov.ph,0,1,1,0,0,1,0,0,0
+treasury.gov.ph,Bureau of Treasury,http://www.treasury.gov.ph,0,0,0,0,,,,,
+vigancity.gov.ph,Vigan City,http://vigancity.gov.ph,0,0,0,0,,,,,
+zambales.gov.ph,Zambales,http://www.zambales.gov.ph,0,0,0,0,,,,,
